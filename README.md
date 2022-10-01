@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/aliciab59862376" target="blank"><img src="https://img.shields.io/twitter/follow/aliciab59862376?logo=twitter&style=for-the-badge" alt="aliciab59862376" /></a> </p>
 
-- 🔭 I’m currently working on **ecommerce**
+- 🔭 I’m currently working on **ecommerce proyect**
 
-- 👯 I’m looking to collaborate on **webpage**
 
 - 📫 How to reach me **benitez.ali@gmail.com**
 
