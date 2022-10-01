@@ -1,5 +1,5 @@
 
-[](https://github.com/abenitezS/abenitezS/issues/3#issue-1393543257)
+![](https://github.com/abenitezS/abenitezS/issues/3#issue-1393543257)
 <h1 align="center">Hi 👋, I'm Alicia Graciela Benitez Samaniego</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
