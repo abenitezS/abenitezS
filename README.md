@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alicia Graciela Benitez Samaniego</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <a href="https://twitter.com/aliciab59862376" target="blank"><img src="https://img.shields.io/twitter/follow/aliciab59862376?logo=twitter&style=for-the-badge" alt="aliciab59862376" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/aliciab59862376](https://i.gifer.com/J5A.mp4)" target="blank"><img src="https://img.shields.io/twitter/follow/aliciab59862376?logo=twitter&style=for-the-badge" alt="aliciab59862376" /></a> </p>
 
 - 🔭 I’m currently working on **ecommerce proyect**
 
