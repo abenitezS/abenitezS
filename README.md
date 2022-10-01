@@ -1,5 +1,5 @@
 
-[me](https://user-images.githubusercontent.com/92047779/193427200-6d130e95-efdc-4eac-8e7d-48a5d5182826.jpgl)
+[](https://github.com/abenitezS/abenitezS/issues/3#issue-1393543257)
 <h1 align="center">Hi 👋, I'm Alicia Graciela Benitez Samaniego</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
